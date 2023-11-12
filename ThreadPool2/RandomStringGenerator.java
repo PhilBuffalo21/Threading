@@ -1,3 +1,5 @@
+package Threading.ThreadPool2;
+
 import java.util.Random;
 
 public class RandomStringGenerator {
